@@ -1,5 +1,7 @@
 id: P000530
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG9297
   title: བཀའ་གདམས་རིན་པོ་ཆེའི་ཆོས་འབྱུང་རྣམ་ཐར་ཉིན་མོར་བྱེད་པའི་འོད་སྟོང་།
@@ -10,10 +12,3 @@ source_metadata:
       title: Volume 1 of phyag rgya chen po'i sgros 'bum/
       volume_number: 1
       total_pages: 286
-ebook_metadata:
-  title: བཀའ་གདམས་རིན་པོ་ཆེའི་ཆོས་འབྱུང་རྣམ་ཐར་ཉིན་མོར་བྱེད་པའི་འོད་སྟོང་།
-  author: ''
-  sku: P000530
-  cover: cover.jpg
-  layers:
-  - pagination
